@@ -1,32 +1,53 @@
 # Certificates
  This repository includes all my certificate obtained from online learning platform Coursera ,NPTEL and my internship.
  
-• Intermediate Relational Database and SQL o Coursera Project Network
+• Intermediate Relational Database and SQL 
+o Coursera Project Network
 
-• Getting Started with AI using IBM Watson o IBM 
+• Getting Started with AI using IBM Watson 
+o IBM 
 
-• Algorithmic Toolbox o University of California San Diego, HSE University 
+• Algorithmic Toolbox 
+o University of California San Diego, HSE University 
 
-• Linear Regression with NumPy and Python o Coursera Project Network 
+• Linear Regression with NumPy and Python 
+o Coursera Project Network 
 
-• Machine Learning Foundations: A Case Study Approach o University of Washington 
+• Machine Learning Foundations: A Case Study Approach 
+o University of Washington 
 
-• Crash Course on Python o Google • Image Processing with Python o Coursera Project Network 
+• Crash Course on Python 
+o Google 
 
-• AI For Everyone o DeepLearning.AI • Technical Support Fundamentals o Google 
+• Image Processing with Python 
+o Coursera Project Network 
 
-• An Introduction to Practical Deep Learning o Intel 
+• AI For Everyone 
+o DeepLearning.AI 
 
-• Unsupervised Machine Learning for Customer Market Segmentation o Coursera Project Network 
+• Technical Support Fundamentals 
+o Google 
 
-• Machine Learning: Create a Neural Network that Predicts whether an Image is a Car or Airplane. o Coursera Project Network 
+• An Introduction to Practical Deep Learning 
+o Intel 
 
-• C for Everyone: Structured Programming o University of California, Santa Cruz 
+• Unsupervised Machine Learning for Customer Market Segmentation 
+o Coursera Project Network 
 
-• Introduction to C programing o NPTEL (IITM) 
+• Machine Learning: Create a Neural Network that Predicts whether an Image is a Car or Airplane. 
+o Coursera Project Network 
 
-• Blockchain Basics o University at Buffalo, The State University of New York 
+• C for Everyone: Structured Programming 
+o University of California, Santa Cruz 
 
-• Python Data Structures o University of Michigan 
+• Introduction to C programing 
+o NPTEL (IITM) 
 
-• Programming for Everybody (Getting Started with Python) o University of Michigan
+• Blockchain Basics 
+o University at Buffalo, The State University of New York 
+
+• Python Data Structures 
+o University of Michigan 
+
+• Programming for Everybody (Getting Started with Python) 
+o University of Michigan
