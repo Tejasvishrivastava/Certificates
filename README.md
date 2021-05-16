@@ -20,34 +20,34 @@ o University of Washington
 o Google 
 
 • Image Processing with Python 
-o Coursera Project Network 
+ o Coursera Project Network 
 
 • AI For Everyone 
-o DeepLearning.AI 
+ o DeepLearning.AI 
 
 • Technical Support Fundamentals 
-o Google 
+ o Google 
 
 • An Introduction to Practical Deep Learning 
-o Intel 
+ o Intel 
 
 • Unsupervised Machine Learning for Customer Market Segmentation 
-o Coursera Project Network 
+ o Coursera Project Network 
 
 • Machine Learning: Create a Neural Network that Predicts whether an Image is a Car or Airplane. 
-o Coursera Project Network 
+ o Coursera Project Network 
 
 • C for Everyone: Structured Programming 
-o University of California, Santa Cruz 
+ o University of California, Santa Cruz 
 
 • Introduction to C programing 
-o NPTEL (IITM) 
+ o NPTEL (IITM) 
 
 • Blockchain Basics 
-o University at Buffalo, The State University of New York 
+ o University at Buffalo, The State University of New York 
 
 • Python Data Structures 
-o University of Michigan 
+ o University of Michigan 
 
 • Programming for Everybody (Getting Started with Python) 
-o University of Michigan
+ o University of Michigan
